@@ -13,7 +13,7 @@ Fullstack Data with interest in ML Engineering and somehow reasearching NLP on t
 ## Work Experience
 
 ### Pitik
-> City: Bandung
+> City: Jakarta, Indonesia (Hybrid)
 > Date: October 2022 - Now
 > Role: Data Scientist
 > Ref : ridho.prasojo@pitik.id
@@ -22,13 +22,15 @@ Fullstack Data with interest in ML Engineering and somehow reasearching NLP on t
 -   Improve and implement chicken body weight estimation, to help make
     decision of early harvest. Potentially reducing the loss of  300 of
     our partner farms monthly
--   Develop and Maintain Self-Hosted OSS Data Platform, enabling our
-    data team of 4 to be self serving in creating and monitoring their
-    data pipeline.
+-   Develop and Maintain Self-Hosted OSS Data Platform, enabling our data team of 4 to be self serving in creating, maintaining and monitoring their data pipeline. And facilitate them to serve analysis for ~20 of our in-house strategy and business team}. Using a combination of Airflow for orchestration, Airbyte and dbt for ELT.
 -   Support the initiation and expansion of new business unit by
     providing data product to help analyze the potential demand of
     certain location. Used by our business unit in expanding and
     experimenting to 5 cities.
+-   Building multiple MVP data products to explore alternatives in easing the work of field team.
+  -   Aggregate custom visualization static site to host niche visualization for our users that can't be done in standard BI tools (e.g. Looker Studio, Metabase)
+  -   PoC on using monocular image to support overhead object detection task
+  -   PoC for table structure extraction and handwritten OCR to augment daily operation
 
 #### Skills and Technology
 
@@ -38,13 +40,14 @@ Fullstack Data with interest in ML Engineering and somehow reasearching NLP on t
 - Metabase for BI layer
 
 ### Magpie
-> City: Bandung
+> City: Singapore (Remote)
 > Date: February 2020 - Now
 > Role: Data Consultant
-> Ref : ichsan@adskom.com
+> Ref : ichsan@magpie.co.id
 
 #### Remarks
-
+-   Data Pipeline from Zero to One
+-   Manage data and engineering team. Multiple projects and 3rd party integration.
 -   Grow our data orchestration system and centralized data-warehouse
     solution for ecommerce analytics. Scale our business from 1 brand
     consultant to serving more than 10 brands both National and Regional
@@ -56,8 +59,7 @@ Fullstack Data with interest in ML Engineering and somehow reasearching NLP on t
     by a quarter. And develop a monitoring tools to help our tech team
     of 6 people in identifying potential area of improvements in our
     queries.
--   Manage a data team of three consisting of multidisciplinary role to
-    develop data products serving 20+ consultants.
+-   Manage data and engineering team of six consisting of multidisciplinary role to develop data products serving 30+ consultants and analyst. Helping them manage and makes sense terabyte-scale data daily.
 -   Develop and deploy text mining algorithm for negative keywords
     detection and product SKU identification, powering business process
     that takes tens of thousands ecommerce items monthly.
